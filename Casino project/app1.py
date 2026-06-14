@@ -106,30 +106,6 @@ border:2px solid gold;
 <h3>Powered by Quantum Randomness ⚛️</h3>
 </div>
 """, unsafe_allow_html=True)
-
-
-
-# game = st.sidebar.radio(
-#     "🎮 Choose a game",
-#     [
-#         "🪙 Coin Toss",
-#         "🎲 Dice Game",
-#         "🎯 Guessing Game",
-#         "🎫 Lottery",
-#         "✂️ Rock Paper Scissors"
-#     ]
-# )
-# st.markdown("""
-# <style>
-
-# [data-testid="stSidebar"]{
-#     background-color: #111827;
-# }
-
-# </style>
-# """, unsafe_allow_html=True)
-# st.sidebar.metric("Games Played", 12)
-# st.sidebar.metric("Wins", 8)
 games=[("🪙 Coin toss", "coin_toss", "icons/coin toss.png"),
        ("🎲 Dice Game", "dice_game", "icons/dice.png"),
        ( "🎯 Guessing Game", "guessing_game", "icons/guessing game.png"),
