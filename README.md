@@ -1,7 +1,7 @@
 # Quantum Casino
 A Streamlit-based gaming platform powered by quantum randomness.
 ## Live Demo
-Project Link: (http://localhost:8501/)
+Project Link: Coming Soon
 
 Click the link to play the game in real-time and experience quantum-powered randomness. 
 ## Features
@@ -53,7 +53,25 @@ pip install -r requirements.txt
 Run the Application
 streamlit run app.py
 ## Screenshots
-![Home](assets/home.png)
+## Screenshots
+
+### Home Page
+![Home Page](Screenshots/Home%20Page.png.png)
+
+### Coin Toss
+![Coin Toss](Screenshots/coin%20toss.png.png)
+
+### Dice Game
+![Dice Game](Screenshots/Dice%20game.png.png)
+
+### Guessing Game
+![Guessing Game](Screenshots/Guessing%20game.png.png)
+
+### Lottery
+![Lottery](Screenshots/Lottery.png.png)
+
+### Rock Paper Scissors
+![Rock Paper Scissors](Screenshots/Rock%20Paper%20Scissor.png.png)
 ## Future Enhancements
 - Flutter Mobile Application
 - Multiplayer Mode
