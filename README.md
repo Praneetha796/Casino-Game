@@ -53,7 +53,6 @@ pip install -r requirements.txt
 Run the Application
 streamlit run app.py
 ## Screenshots
-## Screenshots
 
 ### Home Page
 ![Home Page](Screenshots/Home%20Page.png.png)
