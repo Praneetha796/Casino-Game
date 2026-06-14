@@ -1,7 +1,7 @@
 # Quantum Casino
 A Streamlit-based gaming platform powered by quantum randomness.
 ## Live Demo
-Project Link: Coming Soon
+Project Link: https://praneetha796.github.io/Casino-Game/
 
 Click the link to play the game in real-time and experience quantum-powered randomness. 
 ## Features
